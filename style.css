@@ -1,0 +1,44 @@
+
+body
+{
+    padding: 140px;
+    text-align: center;
+    background-color: #E4F9F5;
+    font-family:inherit;
+}
+
+.d0
+{
+    margin-top: 10%;
+}
+h1
+{
+    font-size: 562.5%;
+    margin-top: 0;
+    font-family: cursive;
+}
+p{
+}
+.cloud1
+{
+    position: absolute;
+    top: 20%;
+    right: 20%;
+}
+.cloud2
+{
+    position: absolute;
+    left: 20%;
+}
+.mountain
+{
+
+}
+.web
+{
+    resize:20px ;
+}
+.lang
+{
+
+}
